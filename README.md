@@ -5,9 +5,9 @@ Assignment to create REST API end points in Nodejs given by Urban Food Box.
 This App uses a third party library based On Node js called Twitter-Api-client to take in tweets and save it to database
 and performs various kinds queries on those tweets to get data.
 
-## To Start The Server Type in -> npm run start
+#### To Start The Server Type in -> npm run start
 
-#### End Points of the Application are as follows ->  
+### End Points of the Application are as follows ->  
 
 ##### To Store Tweets By A Particular Handle To Database -> POST /api/twitter/:twitterhandle  
 
